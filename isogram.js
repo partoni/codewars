@@ -9,7 +9,15 @@ function isIsogram(str){
     }
     return true
   }
+
+
   console.log(isIsogram(''))
   console.log(isIsogram('pari'))
   console.log(isIsogram('parir'))
   console.log(isIsogram('pari'))
+
+//   ----second solution-----
+
+function isIsogram(str){
+    
+}
